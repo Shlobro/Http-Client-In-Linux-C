@@ -1,0 +1,3 @@
+/home/student/CLionProjects/Http Client/cmake-build-debug/CMakeFiles/Http_Client.dir
+/home/student/CLionProjects/Http Client/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/student/CLionProjects/Http Client/cmake-build-debug/CMakeFiles/rebuild_cache.dir
